@@ -1,5 +1,3 @@
-# FinPass
+# FinPass: A Game-Based Approach to Financial Literacy
 
 ## Overview
-
-### What is the issue we are trying to address?
