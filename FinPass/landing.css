@@ -3,7 +3,7 @@
     margin: 0px;
     font-weight: bold;
     font-family: "Inconsolata", sans-serif;
-    font-size: 20px;
+    font-size: 18px;
 }
 header {
     display: flex;
@@ -16,4 +16,10 @@ header * {
     background-color: #1A1846;
     padding: 12px;
     margin: 12px;
+}
+.options {
+    padding: 20px;
+}
+.logo {
+    font-size: 26px;
 }
