@@ -1,0 +1,19 @@
+* {
+    background-color: #0c0b20;
+    margin: 0px;
+    font-weight: bold;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 20px;
+}
+header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #1A1846;
+}
+header * {
+    color: white;
+    background-color: #1A1846;
+    padding: 12px;
+    margin: 12px;
+}
